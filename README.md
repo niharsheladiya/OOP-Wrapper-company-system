@@ -79,19 +79,6 @@ Age: 30
 Employee_ID : 101
 Salary: $55000.0
 
-```
-
----
-
-## 🚀 ℍ𝕠𝕨 𝕥𝕠 ℝ𝕦𝕟
-
-> **Note:** Make sure you have **Python 3.10+** installed (required for the `match-case` syntax). No external libraries are required — this project only uses standard Python out of the box.
-
-```bash
-
-```
-
----
 
 ## 📁 ℙ𝕣𝕠𝕛𝕖𝕔𝕥 𝕊𝕥𝕣𝕦𝕔𝕥𝕦𝕣𝕖
 
@@ -110,8 +97,9 @@ Python-OOP-Company-Management/
 * **Data Persistence:** Global lists (person, employees, managers, Developers) act as a volatile, in-memory database that clears completely upon program termination.
 
 ---
-By-Nihar Sheladiya 
 
 ## 📝 𝔸𝕔𝕒𝕕𝕖𝕞𝕚𝕔 𝕀𝕟𝕥𝕖𝕘𝕣𝕚𝕥𝕪
 
 This project was completed independently to demonstrate proficiency in core Object-Oriented Programming principles using Python. All code is structured to satisfy typical OOP learning outcomes, specifically focusing on inheritance, encapsulation, and dictionary mapping behaviors.
+
+By-Nihar Sheladiya 
