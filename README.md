@@ -103,3 +103,6 @@ Python-OOP-Company-Management/
 This project was completed independently to demonstrate proficiency in core Object-Oriented Programming principles using Python. All code is structured to satisfy typical OOP learning outcomes, specifically focusing on inheritance, encapsulation, and dictionary mapping behaviors.
 
 By-Nihar Sheladiya 
+
+
+                                 🎓 Red & White Skill Education — Shaping skills for scaling higher...!!!
